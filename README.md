@@ -1,11 +1,11 @@
 # workout_logger
 
-# A simple workout logging command-line application built with Python and SQLite3, allowing users to log their workouts with details such as exercise, weight, reps, sets, and store them in an SQLite database.
+A simple workout logging command-line application built with Python and SQLite3, allowing users to log their workouts with details such as exercise, weight, reps, sets, and store them in an SQLite database.
 
-# The workouts are automatically categorized based on the rep range, with the categories being:
-#    Strength
-#    Hypertrophy
-#    Endurance
+The workouts are automatically categorized based on the rep range, with the categories being:
+  Strength
+  Hypertrophy
+  Endurance
 
 # Features 
 - Log workouts: with exercise name, weight, reps, sets, and date.
