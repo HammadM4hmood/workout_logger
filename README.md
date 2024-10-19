@@ -29,3 +29,10 @@ pip install -r requirements.txt
 
 BASH:
 python main.py
+
+# Features to be Added
+- Retrieve Previous Workouts: Users will be able to view their workout history from the database in a clear and user-friendly interface.
+- Web-Based Access: The project will be enhanced with a web-based interface that allows users to log, track, and analyze workouts conveniently through a browser.
+- Volume Tracker: ability to calculate the volume in one workout
+- 1 Rep Max Calculator: calculate the 1 rep max for each set
+- Add more workouts per session instead of only one
